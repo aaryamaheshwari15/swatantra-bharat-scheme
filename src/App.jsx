@@ -21,7 +21,7 @@ import { Footer } from "./components/Footer";
 import { SchemeDetailsModal } from "./components/SchemeDetailsModal";
 import { PartnerDetailsModal } from "./components/PartnerDetailsModal";
 import { ApplicationGuidance } from "./components/ApplicationGuidance";
-import { AuthModal } from "./components/AuthModal";
+import AuthModal from "./components/AuthModal";
 
 // Data
 import { SCHEMES } from "./data/schemes";
